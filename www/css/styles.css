@@ -13,3 +13,8 @@
 .statusbar-overlay {
     background: #000000;
 }
+
+.content-block {
+	padding: 0;
+	margin: 0;
+}
